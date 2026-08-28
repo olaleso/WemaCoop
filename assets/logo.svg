@@ -1,0 +1,10 @@
+<svg width="220" height="52" viewBox="0 0 220 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="52" rx="10" fill="white"/>
+  <g transform="translate(6,3)">
+    <path d="M8 4L21 36L27 22L33 36L46 4H39L32 23L27 12L22 23L15 4H8Z" fill="#7A1FA2"/>
+    <path d="M16 4L29 36L35 22L41 36L54 4H47L40 23L35 12L30 23L23 4H16Z" fill="#A026C2" fill-opacity="0.95"/>
+    <path d="M24 4L37 36L43 22L49 36L62 4H55L48 23L43 12L38 23L31 4H24Z" fill="#5D0F80" fill-opacity="0.92"/>
+  </g>
+  <text x="74" y="24" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#161121">Wema Cooperative</text>
+  <text x="74" y="39" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="0.9" fill="#615A72">STAFF COOPERATIVE SOCIETY</text>
+</svg>
