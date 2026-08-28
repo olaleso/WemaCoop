@@ -1,17 +1,13 @@
-Wema Cooperative Landing Page v4
+Wema Cooperative Landing Page v5 — visual polish build
 
-This version replaces the placeholder property artwork with project photography:
-- Purple Villa — uses the user-provided Purple Villa photo, web-optimised to WebP.
-- Somolu Serviced Flats — uses the generated photo-realistic apartment image.
-- Oko-Omi Land Acquisition — uses the generated aerial serviced-land image.
+Key upgrades:
+- Larger premium project carousel with glass metadata, slide progress, swipe and autoplay
+- Real Purple Villa image + generated Somolu and Oko-Omi imagery
+- Cleaner multi-colour icon system using Lucide icons
+- Improved live loan calculator with monthly, total and interest estimates
+- Mobile calculator collapsed by default
+- Subtle scroll reveals and stat count-up animation
+- Compact mobile news strip and single floating Member Login action
+- More refined card hierarchy, shadows, spacing and footer
 
-Core functionality retained:
-- Large first-screen project carousel
-- Auto-play, arrow navigation, dot navigation, and mobile swipe
-- Live loan repayment calculator
-- Mobile collapsible calculator panel
-- Data-driven project, opportunity, and news content in app.js
-- Responsive mobile/desktop navigation
-- Multi-colour icon cards and compact mobile layout
-
-Open index.html directly, or deploy the folder to any static host.
+Deploy as a plain static site. index.html is at the root.
